@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Himanth
+# Hi there I'm Himanth
 
 I'm a software engineer with a strong foundation in **backend development**, actively expanding into **backend systems, distributed architectures, and low-level engineering concepts**. I enjoy understanding how things work end-to-end — from UI interactions to network protocols and infrastructure.
 
 ---
 
-## 🚀 What I’m Currently Focused On
+## What I’m Currently Focused On
 
 - Deepening expertise in **JavaScript / TypeScript** and modern frontend architecture
 - Building backend systems with **Node.js** and **PostgreSQL**
@@ -15,7 +15,7 @@ I'm a software engineer with a strong foundation in **backend development**, act
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Backend & APIs
 - Node.js
@@ -43,7 +43,7 @@ I'm a software engineer with a strong foundation in **backend development**, act
 
 ---
 
-## 📦 Projects & Learning Work
+## Projects & Learning Work
 
 - Custom **Rust HTTP Server** with thread pool & graceful shutdown
 - gRPC-based **multi-service Node.js system**
@@ -55,7 +55,7 @@ I'm a software engineer with a strong foundation in **backend development**, act
 
 ---
 
-## 🎯 Long-Term Interests
+## Long-Term Interests
 
 - Backend & platform engineering
 - Distributed systems
@@ -65,7 +65,7 @@ I'm a software engineer with a strong foundation in **backend development**, act
 
 ---
 
-## 🌱 How I Approach Learning
+## How I Approach Learning
 
 I prefer:
 - Building from first principles
@@ -75,7 +75,7 @@ I prefer:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - GitHub: [@Himanth24](https://github.com/Himanth24)
 
